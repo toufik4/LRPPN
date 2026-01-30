@@ -1,6 +1,6 @@
 
 
-# ARCHITECTURE DES EXÉCUTABLES - PROJET LRPPN/TRAV
+# ARCHITECTURE CLIENT LRPPN
 
 **Date**: 28 janvier 2026  
 **Projet**: Client Lourd LRPPN (C++ / MFC)  
